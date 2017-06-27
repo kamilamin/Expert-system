@@ -1,0 +1,26 @@
+{
+  "name": "Expert-system-for-dermatologist",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "dependencies": {
+    "firebase": "^4.1.3",
+    "history": "^4.6.3",
+    "material-ui": "^0.18.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
